@@ -5,8 +5,9 @@ Chinatown's zipcodes are 10002 (eastside) and 10013 (westside). In 2000, the tot
 
 The median home value was $957,626 which is higher than the national median of $184,700, and the median rent was $1,454 which is higher than the national median of $949. Interestingly enough 89% of their population rented and 11% owned their home. 
 
-According to the 2000 census, there were 16.3% white, 4.8% African American, 0.1% Native American, 63.9% Asian, 13.4 % Hispanic or Latino and 0.2% from other races living in Chinatown. From 2000 to 2010, there was a dramatic 43% increase in the white population living in Chinatown. However, there was a 15% decrease in the Asian population and a 15% decrease in the Hispanic/Latino population. There was also a 3% decrease in the black population. 
+According to the 2000 census, there were 16.3% white, 4.8% African American, 0.1% Native American, 63.9% Asian, 13.4 % Hispanic or Latino and 0.2% from other races living in Chinatown. From 2000 to 2010, there was a dramatic 43% increase in the white population living in Chinatown. However, there was a 15% decrease in the Asian population and a 15% decrease in the Hispanic/Latino population. There was also a 3% decrease in the black population.  
 
+![download](https://user-images.githubusercontent.com/73083156/99212981-66ea2580-279a-11eb-85e8-7e26a8b23ea8.jpg)
 
 
 **Observations of Mahanttan AirBnBs(HC3)**  
